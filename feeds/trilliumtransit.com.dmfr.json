@@ -3942,7 +3942,7 @@
       "id": "f-cityofdekalb~il~us",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://data.trilliumtransit.com/gtfs/cityofdekalb-il-us/cityofdekalb-il-us.zip"
+        "static_current": "https://data.trilliumtransit.com/gtfs/cityofdekalb-il-us/cityof-il-us.zip"
       },
       "license": {
         "use_without_attribution": "yes",
@@ -3952,7 +3952,7 @@
         {
           "onestop_id": "o-dp2y-dekalbpublictransit",
           "name": "DeKalb Public Transit",
-          "website": "https://www.cityofdekalb.com/473/Transit",
+          "website": "https://www.cityofdekalb.com/1287/Maps-Schedules",
           "associated_feeds": [
             {
               "gtfs_agency_id": "1507"
